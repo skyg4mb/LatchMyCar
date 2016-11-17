@@ -1,4 +1,4 @@
-### LATCH PYTHON SDK ###
+### LATCH PYTHON SDK AND MYCAR APPLICATION. ###
 
 
 #### PREREQUISITES ####
@@ -11,7 +11,7 @@
 
 * Serial of dispositive MyCar.
 
-#### USING THE SDK IN PYTHON ####
+#### CONFIGURATING MYCAR ####
 
 
 * For configurate MyCar, edit Detec.py in the line secretid, appid with your latch application
@@ -23,3 +23,5 @@
 	At the line URL url = 'http://107.170.113.246/carsec/v1/index.php/account/91654917396765864' Replace 91654917396765864 with the serial of your dispositive.
 	
   ```
+
+* Run detect.py
