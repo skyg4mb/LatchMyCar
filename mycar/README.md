@@ -39,3 +39,10 @@
 	responseData = response.get_data()
 	responseError = response.get_error()
   ```
+
+* For configurate MyCar, edit Detec.py in the line secretid, appid with your latch application
+
+```
+	AppId
+	SecretId
+  ```
