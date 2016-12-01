@@ -14,7 +14,7 @@
 #### CONFIGURATING MYCAR ####
 
 
-* For configurate MyCar, edit Detec.py in the line secretid, appid with your latch application
+* For configurate MyCar, edit Detect.py at the line secretid and appid with your latch application
 
 ```
 	AppId
